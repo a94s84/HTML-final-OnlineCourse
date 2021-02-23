@@ -76,7 +76,7 @@ h3{
 	width:100%;
 	min-width: 1024px;
 }
-.header h1 a{
+.header h1{
 	display:block;
 	background: url(../images/logo.png) no-repeat center;
 	width: 190px;
